@@ -1,0 +1,8 @@
+c:\users\camargo\documents\visual studio 2017\Projects\Exercicio 24_04\Exercicio 24_04\bin\Debug\Exercicio 24_04.exe.config
+c:\users\camargo\documents\visual studio 2017\Projects\Exercicio 24_04\Exercicio 24_04\bin\Debug\Exercicio 24_04.exe
+c:\users\camargo\documents\visual studio 2017\Projects\Exercicio 24_04\Exercicio 24_04\bin\Debug\Exercicio 24_04.pdb
+c:\users\camargo\documents\visual studio 2017\Projects\Exercicio 24_04\Exercicio 24_04\obj\Debug\Exercicio 24_04.csprojResolveAssemblyReference.cache
+c:\users\camargo\documents\visual studio 2017\Projects\Exercicio 24_04\Exercicio 24_04\obj\Debug\Exercicio 24_04.exe
+c:\users\camargo\documents\visual studio 2017\Projects\Exercicio 24_04\Exercicio 24_04\obj\Debug\Exercicio 24_04.pdb
+D:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Exercicio 24_04\Exercicio 24_04\obj\Debug\Exercicio 24_04.exe
+D:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Exercicio 24_04\Exercicio 24_04\obj\Debug\Exercicio 24_04.pdb
