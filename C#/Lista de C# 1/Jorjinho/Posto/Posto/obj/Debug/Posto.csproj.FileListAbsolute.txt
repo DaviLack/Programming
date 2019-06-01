@@ -1,0 +1,6 @@
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Posto\Posto\obj\Debug\Posto.csprojResolveAssemblyReference.cache
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Posto\Posto\bin\Debug\Posto.exe.config
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Posto\Posto\bin\Debug\Posto.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Posto\Posto\bin\Debug\Posto.pdb
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Posto\Posto\obj\Debug\Posto.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Posto\Posto\obj\Debug\Posto.pdb

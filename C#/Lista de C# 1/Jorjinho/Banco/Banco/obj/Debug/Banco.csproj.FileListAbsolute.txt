@@ -1,0 +1,5 @@
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Banco\Banco\bin\Debug\Banco.exe.config
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Banco\Banco\bin\Debug\Banco.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Banco\Banco\bin\Debug\Banco.pdb
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Banco\Banco\obj\Debug\Banco.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Banco\Banco\obj\Debug\Banco.pdb

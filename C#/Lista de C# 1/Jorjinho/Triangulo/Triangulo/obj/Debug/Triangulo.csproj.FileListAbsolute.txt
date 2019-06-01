@@ -1,0 +1,5 @@
+c:\users\camargo\documents\visual studio 2017\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+c:\users\camargo\documents\visual studio 2017\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+c:\users\camargo\documents\visual studio 2017\Projects\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+c:\users\camargo\documents\visual studio 2017\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+c:\users\camargo\documents\visual studio 2017\Projects\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
