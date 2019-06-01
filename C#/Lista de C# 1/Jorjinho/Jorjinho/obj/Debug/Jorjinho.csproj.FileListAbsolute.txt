@@ -1,0 +1,6 @@
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Jorjinho\Jorjinho\obj\Debug\Jorjinho.csprojResolveAssemblyReference.cache
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Jorjinho\Jorjinho\bin\Debug\Jorjinho.exe.config
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Jorjinho\Jorjinho\bin\Debug\Jorjinho.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Jorjinho\Jorjinho\bin\Debug\Jorjinho.pdb
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Jorjinho\Jorjinho\obj\Debug\Jorjinho.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Jorjinho\Jorjinho\obj\Debug\Jorjinho.pdb
