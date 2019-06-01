@@ -1,0 +1,6 @@
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 27\Exercicio 27\obj\Debug\Exercicio 27.csprojResolveAssemblyReference.cache
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 27\Exercicio 27\bin\Debug\Exercicio 27.exe.config
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 27\Exercicio 27\bin\Debug\Exercicio 27.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 27\Exercicio 27\bin\Debug\Exercicio 27.pdb
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 27\Exercicio 27\obj\Debug\Exercicio 27.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 27\Exercicio 27\obj\Debug\Exercicio 27.pdb

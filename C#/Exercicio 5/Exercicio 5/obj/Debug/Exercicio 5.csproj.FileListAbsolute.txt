@@ -1,0 +1,6 @@
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.exe.config
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 5\Exercicio 5\bin\Debug\Exercicio 5.pdb
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.csprojResolveAssemblyReference.cache
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 5\Exercicio 5\obj\Debug\Exercicio 5.pdb

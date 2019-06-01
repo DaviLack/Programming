@@ -1,0 +1,5 @@
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 3\Exercicio 3\bin\Debug\Exercicio 3.exe.config
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 3\Exercicio 3\bin\Debug\Exercicio 3.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 3\Exercicio 3\bin\Debug\Exercicio 3.pdb
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 3\Exercicio 3\obj\Debug\Exercicio 3.exe
+E:\Informática 2\Linguagem de Orientação de Objetos\Programação C#\Visual Studio\Lista 2\Exercicio 3\Exercicio 3\obj\Debug\Exercicio 3.pdb
